@@ -1,0 +1,8 @@
+h1:dis_ins Diseño del Instrumento
+h2:proc-dis Proceso de Diseño
+h2:dif-cuest Diferencias entre Cuestionarios de Ola 1 y 2
+tab:difcuest \\label{tab:difcuest}Diferencias Temáticas entre Cuestionarios
+tab:items \\label{tab:items}Temas y Conceptos medidos en ELSCO Ola 2
+h2:ficha-técnica Ficha Técnica
+tab:ficha \\label{tab:ficha}Ficha Técnica ELSOC COES, Ola 2 (2017)
+

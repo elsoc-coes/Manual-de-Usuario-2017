@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+<script src="lib/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="lib/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="lib/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="lib/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="lib/kePrint-0.0.1/kePrint.js"></script>
+<link href="lib/lightable-0.0.1/lightable.css" rel="stylesheet" />
+
+</head>
+<body>
+<table class=" lightable-classic lightable-striped" style='font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; margin-left: auto; margin-right: auto;'>
+<caption>\label{tab:aumento}Número de hogares agregados a la muestra según región y comuna</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Región </th>
+   <th style="text-align:left;"> Comuna </th>
+   <th style="text-align:right;"> Total viviendas agregadas </th>
+   <th style="text-align:right;"> Viviendas agregadas por bloque </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;width: 2cm; "> Coquimbo </td>
+   <td style="text-align:left;width: 2cm; "> Coquimbo </td>
+   <td style="text-align:right;width: 1cm; "> 24 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> La Serena </td>
+   <td style="text-align:right;width: 1cm; "> 28 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Salamanca </td>
+   <td style="text-align:right;width: 1cm; "> 22 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; "> O'Higgins </td>
+   <td style="text-align:left;width: 2cm; "> Doñihue </td>
+   <td style="text-align:right;width: 1cm; "> 10 </td>
+   <td style="text-align:right;width: 1cm; "> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Rancagua </td>
+   <td style="text-align:right;width: 1cm; "> 42 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Santa Cruz </td>
+   <td style="text-align:right;width: 1cm; "> 11 </td>
+   <td style="text-align:right;width: 1cm; "> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; "> Biobío </td>
+   <td style="text-align:left;width: 2cm; "> Chiguanyante </td>
+   <td style="text-align:right;width: 1cm; "> 24 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Concepción </td>
+   <td style="text-align:right;width: 1cm; "> 75 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Coronel </td>
+   <td style="text-align:right;width: 1cm; "> 11 </td>
+   <td style="text-align:right;width: 1cm; "> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Penco </td>
+   <td style="text-align:right;width: 1cm; "> 4 </td>
+   <td style="text-align:right;width: 1cm; "> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Quillón </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> San Pedro de la Paz </td>
+   <td style="text-align:right;width: 1cm; "> 28 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; "> Metropolitana </td>
+   <td style="text-align:left;width: 2cm; "> Cerrillos </td>
+   <td style="text-align:right;width: 1cm; "> 9 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Colina </td>
+   <td style="text-align:right;width: 1cm; "> 12 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Curacaví </td>
+   <td style="text-align:right;width: 1cm; "> 14 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> El Bosque </td>
+   <td style="text-align:right;width: 1cm; "> 8 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Estación Central </td>
+   <td style="text-align:right;width: 1cm; "> 12 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Huechuraba </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Independencia </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Isla de Maipo </td>
+   <td style="text-align:right;width: 1cm; "> 39 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> La Cisterna </td>
+   <td style="text-align:right;width: 1cm; "> 9 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> La Florida </td>
+   <td style="text-align:right;width: 1cm; "> 24 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> La Granja </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> La Pintana </td>
+   <td style="text-align:right;width: 1cm; "> 12 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> La Reina </td>
+   <td style="text-align:right;width: 1cm; "> 9 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Las Condes </td>
+   <td style="text-align:right;width: 1cm; "> 33 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Lo Barnechea </td>
+   <td style="text-align:right;width: 1cm; "> 9 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Lo Espejo </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Lo Prado </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Macul </td>
+   <td style="text-align:right;width: 1cm; "> 8 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Maipú </td>
+   <td style="text-align:right;width: 1cm; "> 32 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Ñuñoa </td>
+   <td style="text-align:right;width: 1cm; "> 16 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Padre Hurtado </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Pedro Aguirre Cerda </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Peñaflor </td>
+   <td style="text-align:right;width: 1cm; "> 30 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Peñalolén </td>
+   <td style="text-align:right;width: 1cm; "> 14 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Providencia </td>
+   <td style="text-align:right;width: 1cm; "> 7 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Pudahuel </td>
+   <td style="text-align:right;width: 1cm; "> 14 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Puente Alto </td>
+   <td style="text-align:right;width: 1cm; "> 32 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Quilicura </td>
+   <td style="text-align:right;width: 1cm; "> 12 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> San Bernardo </td>
+   <td style="text-align:right;width: 1cm; "> 16 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> San Joaquín </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> San Miguel </td>
+   <td style="text-align:right;width: 1cm; "> 9 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> San Ramón </td>
+   <td style="text-align:right;width: 1cm; "> 6 </td>
+   <td style="text-align:right;width: 1cm; "> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Santiago </td>
+   <td style="text-align:right;width: 1cm; "> 120 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 2cm; ">  </td>
+   <td style="text-align:left;width: 2cm; "> Vitacura </td>
+   <td style="text-align:right;width: 1cm; "> 9 </td>
+   <td style="text-align:right;width: 1cm; "> 3 </td>
+  </tr>
+</tbody>
+</table> <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [["$","$"]]}})</script><script async src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
+</html>

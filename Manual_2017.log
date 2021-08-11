@@ -1,0 +1,3203 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.19)  12 JUL 2021 20:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Manual_2017.tex
+(./Manual_2017.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex
+/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen139
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks16
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks17
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+\MT@toks=\toks23
+\MT@count=\count266
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen148
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count267
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip52
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count268
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2020/12/30 v 0.09a modify URL breaks
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count271
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count272
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen150
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count273
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip53
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count279
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count280
+\LTcapwidth=\dimen153
+\LT@head=\box49
+\LT@firsthead=\box50
+\LT@foot=\box51
+\LT@lastfoot=\box52
+\LT@cols=\count281
+\LT@rows=\count282
+\c@LT@tables=\count283
+\c@LT@chunks=\count284
+\LT@p@ftn=\toks24
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen154
+\lightrulewidth=\dimen155
+\cmidrulewidth=\dimen156
+\belowrulesep=\dimen157
+\belowbottomsep=\dimen158
+\aboverulesep=\dimen159
+\abovetopsep=\dimen160
+\cmidrulesep=\dimen161
+\cmidrulekern=\dimen162
+\defaultaddspace=\dimen163
+\@cmidla=\count285
+\@cmidlb=\count286
+\@aboverulesep=\dimen164
+\@belowrulesep=\dimen165
+\@thisruleclass=\count287
+\@lastruleclass=\count288
+\@thisrulewidth=\dimen166
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen167
+\ar@mcellbox=\box53
+\extrarowheight=\dimen168
+\NC@list=\toks25
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box54
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count289
+\calc@Bcount=\count290
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count291
+\calc@Cskip=\skip62
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/footnotehyper/footnotehyper.sty
+Package: footnotehyper 2021/02/04 v1.1d hyperref aware footnote.sty (JFB)
+\FNH@notes=\box55
+\FNH@width=\dimen171
+\FNH@toks=\toks26
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen172
+\Gin@req@width=\dimen173
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count292
+\Gm@cntv=\count293
+\c@Gm@tempcnt=\count294
+\Gm@bindingoffset=\dimen174
+\Gm@wd@mp=\dimen175
+\Gm@odd@mp=\dimen176
+\Gm@even@mp=\dimen177
+\Gm@layoutwidth=\dimen178
+\Gm@layoutheight=\dimen179
+\Gm@layouthoffset=\dimen180
+\Gm@layoutvoffset=\dimen181
+\Gm@dimlist=\toks27
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip63
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip64
+\f@nch@O@elh=\skip65
+\f@nch@O@erh=\skip66
+\f@nch@O@olh=\skip67
+\f@nch@O@orh=\skip68
+\f@nch@O@elf=\skip69
+\f@nch@O@erf=\skip70
+\f@nch@O@olf=\skip71
+\f@nch@O@orf=\skip72
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip73
+\enit@outerparindent=\dimen182
+\enit@toks=\toks28
+\enit@inbox=\box56
+\enit@count@id=\count295
+\enitdp@description=\count296
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen183
+\WF@size=\dimen184
+\c@WF@wrappedlines=\count297
+\WF@box=\box57
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen185
+\captionmargin@=\dimen186
+\captionwidth=\dimen187
+\caption@tempdima=\dimen188
+\caption@indent=\dimen189
+\caption@parindent=\dimen190
+\caption@hangindent=\dimen191
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count298
+\c@continuedfloat=\count299
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+)
+\c@subfigure=\count300
+\c@subtable=\count301
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count302
+\U@D=\dimen192
+\l@babelnohyphens=\language87
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count303
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks30
+\es@quotdepth=\count304
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/fourier/fourier.sty
+Package: fourier 2020/03/03 2.2 fourier-GUTenberg package
+Now handling font encoding FML ...
+... no UTF-8 mapping file for font encoding FML
+Now handling font encoding FMS ...
+... no UTF-8 mapping file for font encoding FMS
+Now handling font encoding FMX ...
+... no UTF-8 mapping file for font encoding FMX
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+futs on input line 1
+12.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fourier/t1futs.fd
+File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/fourier/fourier-orns.sty
+Package: fourier-orns 2020/03/03 2.2 fourier-ornaments package
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> T1/futs/m/n on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> T1/futs/m/n on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/m/n --> T1/futs/b/n on input line 64.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 72.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `normal' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/lmm/m/it --> FML/futmi/m/it on input line 72.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `bold' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/lmm/b/it --> FML/futmi/m/it on input line 72.
+\symotherletters=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/m/it --> FML/futmi/b/it on input line 74.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/m/it --> FML/futm/b/it on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 79.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 86.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 126.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 126.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> FMS/futm/m/n on input line 126.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 126.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> FMS/futm/m/n on input line 126.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 127.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 1
+27.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> FMX/futm/m/n on input line 127.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 127
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> FMX/futm/m/n on input line 127.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 128.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> T1/futs/bx/n on input line 128.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> T1/futs/bx/n on input line 128.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 130.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> T1/futs/m/it on input line 130.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> T1/futs/m/it on input line 130.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 138.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 14
+3.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
+44.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 145.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 164
+.
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 168.
+
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \varvarrho on input line 200.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 223.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 228.
+LaTeX Font Info:    Redeclaring math delimiter \lvert on input line 230.
+LaTeX Font Info:    Redeclaring math delimiter \rvert on input line 232.
+LaTeX Font Info:    Redeclaring math delimiter \lVert on input line 234.
+LaTeX Font Info:    Redeclaring math delimiter \rVert on input line 236.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 238.
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 240.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 242.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 244.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 246.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 248.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 250.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 252.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 254.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 256.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 260.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 261.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 262.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 263.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 264.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 265.
+LaTeX Font Info:    Redeclaring math accent \check on input line 266.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 267.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 268.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 269.
+\symUfutm=\mathgroup7
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/t
+exlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box58
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex)))
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count306
+\bibleftmargin=\skip74
+\bibindent=\skip75
+\bibparsep=\skip76
+\bibitemsep=\skip77
+\biblabelsep=\skip78
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip79
+\multirow@cntb=\count307
+\multirow@dima=\skip80
+\bigstrutjot=\dimen193
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count308
+\float@exts=\toks31
+\float@box=\box59
+\@float@everytoks=\toks32
+\@floatcapt=\box60
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/arydshln/arydshln.sty
+Package: arydshln 2019/02/21 v1.76 
+\dashlinedash=\dimen194
+\dashlinegap=\dimen195
+\adl@box=\box61
+\adl@height=\dimen196
+\adl@heightsave=\dimen197
+\adl@depth=\dimen198
+\adl@depthsave=\dimen199
+\adl@finaldepth=\dimen256
+\adl@columns=\count309
+\adl@ncol=\count310
+\adl@currentcolumn=\count311
+\adl@currentcolumnsave=\count312
+\adl@totalheight=\count313
+\adl@totalheightsave=\count314
+\adl@dash=\count315
+\adl@gap=\count316
+\adl@cla=\count317
+\adl@clb=\count318
+\adl@everyvbox=\toks33
+\adl@LTpagetotal=\dimen257
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local
+/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
+)
+\XKV@depth=\count319
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+(/usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box62
+)
+\tc@llx=\dimen258
+\tc@lly=\dimen259
+\tc@urx=\dimen260
+\tc@ury=\dimen261
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen262
+\adjbox@Height=\dimen263
+\adjbox@Depth=\dimen264
+\adjbox@Totalheight=\dimen265
+\adjbox@pwidth=\dimen266
+\adjbox@pheight=\dimen267
+\adjbox@pdepth=\dimen268
+\adjbox@ptotalheight=\dimen269
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count320
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box63
+\sift@deathcycles=\count321
+\@vwid@loff=\dimen270
+\@vwid@roff=\dimen271
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count322
+\rotFPtop=\skip81
+\rotFPbot=\skip82
+\rot@float@box=\box64
+\rot@mess@toks=\toks36
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen272
+\TX@old@table=\dimen273
+\TX@old@col=\dimen274
+\TX@target=\dimen275
+\TX@delta=\dimen276
+\TX@cols=\count323
+\TX@ftn=\toks37
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box65
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pbox/pbox.sty
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+\pb@xlen=\skip83
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen277
+\ESO@tempdimb=\dimen278
+)
+\AM@pagewidth=\dimen279
+\AM@pageheight=\dimen280
+\AM@fboxrule=\dimen281
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count324
+\AM@pagebox=\box66
+\AM@global@opts=\toks38
+\AM@pagecnt=\count325
+\AM@toc@title=\toks39
+\c@AM@survey=\count326
+\AM@templatesizebox=\box67
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box68
+\beforetitleunit=\skip84
+\aftertitleunit=\skip85
+\ttl@plus=\dimen282
+\ttl@minus=\dimen283
+\ttl@toksa=\toks40
+\titlewidth=\dimen284
+\titlewidthlast=\dimen285
+\titlewidthfirst=\dimen286
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/flafter.sty
+Package: flafter 2018/11/28 v1.4d Standard LaTeX floats after reference (FMi)
+Applying: [2015/01/01] float order in 2-column on input line 49.
+Already applied: [0000/00/00] float order in 2-column on input line 151.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks41
+\minrowclearance=\skip86
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+\c@taburow=\count327
+\tabu@nbcols=\count328
+\tabu@cnt=\count329
+\tabu@Xcol=\count330
+\tabu@alloc=\count331
+\tabu@nested=\count332
+\tabu@target=\dimen287
+\tabu@spreadtarget=\dimen288
+\tabu@naturalX=\dimen289
+\tabucolX=\dimen290
+\tabu@Xsum=\dimen291
+\extrarowdepth=\dimen292
+\abovetabulinesep=\dimen293
+\belowtabulinesep=\dimen294
+\tabustrutrule=\dimen295
+\tabu@thebody=\toks42
+\tabu@footnotes=\toks43
+\tabu@box=\box69
+\tabu@arstrutbox=\box70
+\tabu@hleads=\box71
+\tabu@vleads=\box72
+\tabu@cellskip=\skip87
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/threeparttablex/threeparttablex.s
+ty
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+(/usr/local/texlive/2021/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+(/usr/local/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\TPTL@width=\skip88
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box73
+\UL@hyphenbox=\box74
+\UL@skip=\skip89
+\UL@hook=\toks44
+\UL@height=\dimen296
+\UL@pe=\count333
+\UL@pixel=\dimen297
+\ULC@box=\box75
+Package: ulem 2019/11/18
+\ULdepth=\dimen298
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen299
+\c@nlinenum=\count334
+\TeXr@lab=\toks45
+) (./Manual_2017.aux
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+
+LaTeX Warning: Label `tab:difcuest' multiply defined.
+
+
+LaTeX Warning: Label `tab:items' multiply defined.
+
+
+LaTeX Warning: Label `tab:ficha' multiply defined.
+
+
+LaTeX Warning: Label `tab:estratos' multiply defined.
+
+
+LaTeX Warning: Label `tab:ciudades' multiply defined.
+
+
+LaTeX Warning: Label `tab:bloques' multiply defined.
+
+
+LaTeX Warning: Label `tab:aumento' multiply defined.
+
+
+LaTeX Warning: Label `tab:cdf' multiply defined.
+
+)
+\openout1 = `Manual_2017.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 170.
+LaTeX Font Info:    Trying to load font information for FML+futm on input line 
+170.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fourier/fmlfutm.fd
+File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
+)
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 170.
+LaTeX Font Info:    Trying to load font information for FMS+futm on input line 
+170.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fourier/fmsfutm.fd
+File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
+)
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 170.
+LaTeX Font Info:    Trying to load font information for FMX+futm on input line 
+170.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fourier/fmxfutm.fd
+File: fmxfutm.fd futm-extension
+)
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Info: Redefining \microtypecontext on input line 170.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 170.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `futs' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count335
+\scratchdimen=\dimen300
+\scratchbox=\box76
+\nofMPsegments=\count336
+\nofMParguments=\count337
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count338
+\MPscratchDim=\dimen301
+\MPnumerator=\count339
+\makeMPintoPDFobject=\count340
+\everyMPtoPDFconversion=\toks47
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 170.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count341
+)
+LaTeX Info: Redefining \ref on input line 170.
+LaTeX Info: Redefining \pageref on input line 170.
+LaTeX Info: Redefining \nameref on input line 170.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=595.06758pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=15.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 170.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \. on input line 170.
+LaTeX Info: Redefining \% on input line 170.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 170.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 170.
+\c@maskedRefs=\count342
+(/usr/local/texlive/2021/texmf-dist/tex/latex/apacite/spanish.apc
+File: spanish.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 138.
+LaTeX Info: Redefining \BHBI on input line 139.
+)
+<coes_blanco_esp.jpg, id=4, 779.3115pt x 384.4764pt>
+File: coes_blanco_esp.jpg Graphic file (type jpg)
+<use coes_blanco_esp.jpg>
+Package pdftex.def Info: coes_blanco_esp.jpg  used on input line 176.
+(pdftex.def)             Requested size: 455.2592pt x 224.60391pt.
+[1
+
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./coes_
+blanco_esp.jpg>] (./Manual_2017.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for FML+futmi on input line
+ 4.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fourier/fmlfutmi.fd
+File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
+)
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 4.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 4.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 4.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 4.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `Manual_2017.toc'.
+
+(./Manual_2017.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write4
+\openout4 = `Manual_2017.lot'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[2
+
+] (./Manual_2017.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write5
+\openout5 = `Manual_2017.lof'.
+
+[3
+
+
+]
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 219.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 219.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 219.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 219.
+[4
+
+]
+Cap\'{\i }tulo 2.
+[5
+
+] [6] [7] [8] [9] [10]
+Cap\'{\i }tulo 3.
+[11
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[12] [13] [14] [15]
+Package textcomp Info: Symbol \textasciiacute not provided by
+(textcomp)             font family futs in TS1 encoding.
+(textcomp)             Default family used instead on input line 544.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+) [16] [17] [18] [19]
+Cap\'{\i }tulo 4.
+[20
+
+] [21]
+Cap\'{\i }tulo 5.
+[22
+
+] [23]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 7
+38.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+</Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/attrition_01.png, id=291
+, 511.9125pt x 423.5825pt>
+File: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/attrition_01.png Gr
+aphic file (type png)
+<use /Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/attrition_01.png>
+Package pdftex.def Info: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/
+attrition_01.png  used on input line 782.
+(pdftex.def)             Requested size: 328.8258pt x 272.08723pt.
+
+Underfull \vbox (badness 5403) has occurred while \output is active []
+
+[24] [25 </Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/attrition_01.pn
+g>]
+</Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/Sample_Design.png, id=30
+9, 581.17125pt x 313.17pt>
+File: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/Sample_Design.png G
+raphic file (type png)
+<use /Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/Sample_Design.png>
+Package pdftex.def Info: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/
+Sample_Design.png  used on input line 819.
+(pdftex.def)             Requested size: 328.83237pt x 177.19463pt.
+[26 </Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/Sample_Design.png>]
+Cap\'{\i }tulo 6.
+
+Overfull \hbox (2.10062pt too wide) in paragraph at lines 842--842
+[]|\T1/futs/m/n/10 (-20) Versión|  
+ []
+
+[27
+
+]
+Cap\'{\i }tulo 7.
+[28
+
+]
+Cap\'{\i }tulo 8.
+[29
+
+]
+Cap\'{\i }tulo 9.
+</Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/Figura_item.png, id=336,
+ 383.18156pt x 259.7203pt>
+File: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/Figura_item.png Gra
+phic file (type png)
+<use /Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/Figura_item.png>
+Package pdftex.def Info: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/
+Figura_item.png  used on input line 888.
+(pdftex.def)             Requested size: 383.18062pt x 259.71967pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[30
+
+]
+</Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/inst_var.png, id=34
+2, 455.45157pt x 108.405pt>
+File: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/inst_var.png G
+raphic file (type png)
+<use /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/inst_var.png>
+Package pdftex.def Info: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imag
+enes/inst_var.png  used on input line 894.
+(pdftex.def)             Requested size: 422.78722pt x 100.63033pt.
+[31 </Users/Elisa/Documents/GitHub/Manuales-ELSOC/Imagenes/Figura_item.png> </U
+sers/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/inst_var.png>]
+</Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/t2_01.png, id=352, 
+450.9347pt x 191.21437pt>
+File: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/t2_01.png Grap
+hic file (type png)
+<use /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/t2_01.png>
+Package pdftex.def Info: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imag
+enes/t2_01.png  used on input line 900.
+(pdftex.def)             Requested size: 422.7984pt x 179.28345pt.
+</Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/c12_09.png, id=353,
+ 398.99063pt x 95.6072pt>
+File: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/c12_09.png Gra
+phic file (type png)
+<use /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/c12_09.png>
+Package pdftex.def Info: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imag
+enes/c12_09.png  used on input line 908.
+(pdftex.def)             Requested size: 422.79411pt x 101.31104pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[32 </Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/t2_01.png>]
+</Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/m37_01.png, id=360,
+ 420.06938pt x 132.495pt>
+File: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/m37_01.png Gra
+phic file (type png)
+<use /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/m37_01.png>
+Package pdftex.def Info: /Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imag
+enes/m37_01.png  used on input line 912.
+(pdftex.def)             Requested size: 422.77966pt x 133.34984pt.
+[33 </Users/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/c12_09.png> </U
+sers/Elisa/Documents/GitHub/Manuales-ELSOC/2016/imagenes/m37_01.png>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=372, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf>
+Package pdftex.def Info: codigos_w02.pdf  used on input line 959.
+(pdftex.def)             Requested size: 459.839pt x 595.0858pt.
+
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf>
+Package pdftex.def Info: codigos_w02.pdf  used on input line 959.
+(pdftex.def)             Requested size: 459.839pt x 595.0858pt.
+
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=375, page=1, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 1>
+Package pdftex.def Info: codigos_w02.pdf , page1 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 1>
+Package pdftex.def Info: codigos_w02.pdf , page1 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[34]
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 1>
+Package pdftex.def Info: codigos_w02.pdf , page1 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 1>
+Package pdftex.def Info: codigos_w02.pdf , page1 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 1>
+Package pdftex.def Info: codigos_w02.pdf , page1 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[35 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=399, page=2, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 2>
+Package pdftex.def Info: codigos_w02.pdf , page2 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 2>
+Package pdftex.def Info: codigos_w02.pdf , page2 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 2>
+Package pdftex.def Info: codigos_w02.pdf , page2 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[36 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=414, page=3, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 3>
+Package pdftex.def Info: codigos_w02.pdf , page3 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 3>
+Package pdftex.def Info: codigos_w02.pdf , page3 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 3>
+Package pdftex.def Info: codigos_w02.pdf , page3 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[37 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=421, page=4, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 4>
+Package pdftex.def Info: codigos_w02.pdf , page4 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 4>
+Package pdftex.def Info: codigos_w02.pdf , page4 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 4>
+Package pdftex.def Info: codigos_w02.pdf , page4 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[38 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=435, page=5, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 5>
+Package pdftex.def Info: codigos_w02.pdf , page5 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 5>
+Package pdftex.def Info: codigos_w02.pdf , page5 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 5>
+Package pdftex.def Info: codigos_w02.pdf , page5 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[39 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=441, page=6, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 6>
+Package pdftex.def Info: codigos_w02.pdf , page6 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 6>
+Package pdftex.def Info: codigos_w02.pdf , page6 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 6>
+Package pdftex.def Info: codigos_w02.pdf , page6 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[40 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=447, page=7, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 7>
+Package pdftex.def Info: codigos_w02.pdf , page7 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 7>
+Package pdftex.def Info: codigos_w02.pdf , page7 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 7>
+Package pdftex.def Info: codigos_w02.pdf , page7 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[41 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=453, page=8, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 8>
+Package pdftex.def Info: codigos_w02.pdf , page8 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 8>
+Package pdftex.def Info: codigos_w02.pdf , page8 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 8>
+Package pdftex.def Info: codigos_w02.pdf , page8 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[42 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=459, page=9, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 9>
+Package pdftex.def Info: codigos_w02.pdf , page9 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 9>
+Package pdftex.def Info: codigos_w02.pdf , page9 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 9>
+Package pdftex.def Info: codigos_w02.pdf , page9 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[43 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=466, page=10, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 10>
+Package pdftex.def Info: codigos_w02.pdf , page10 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 10>
+Package pdftex.def Info: codigos_w02.pdf , page10 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 10>
+Package pdftex.def Info: codigos_w02.pdf , page10 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[44 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=472, page=11, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 11>
+Package pdftex.def Info: codigos_w02.pdf , page11 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 11>
+Package pdftex.def Info: codigos_w02.pdf , page11 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 11>
+Package pdftex.def Info: codigos_w02.pdf , page11 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[45 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=478, page=12, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 12>
+Package pdftex.def Info: codigos_w02.pdf , page12 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 12>
+Package pdftex.def Info: codigos_w02.pdf , page12 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 12>
+Package pdftex.def Info: codigos_w02.pdf , page12 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[46 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=484, page=13, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 13>
+Package pdftex.def Info: codigos_w02.pdf , page13 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 13>
+Package pdftex.def Info: codigos_w02.pdf , page13 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 13>
+Package pdftex.def Info: codigos_w02.pdf , page13 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[47 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=490, page=14, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 14>
+Package pdftex.def Info: codigos_w02.pdf , page14 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 14>
+Package pdftex.def Info: codigos_w02.pdf , page14 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 14>
+Package pdftex.def Info: codigos_w02.pdf , page14 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[48 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=496, page=15, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 15>
+Package pdftex.def Info: codigos_w02.pdf , page15 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 15>
+Package pdftex.def Info: codigos_w02.pdf , page15 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 15>
+Package pdftex.def Info: codigos_w02.pdf , page15 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[49 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=503, page=16, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 16>
+Package pdftex.def Info: codigos_w02.pdf , page16 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 16>
+Package pdftex.def Info: codigos_w02.pdf , page16 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 16>
+Package pdftex.def Info: codigos_w02.pdf , page16 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[50 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=509, page=17, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 17>
+Package pdftex.def Info: codigos_w02.pdf , page17 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 17>
+Package pdftex.def Info: codigos_w02.pdf , page17 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 17>
+Package pdftex.def Info: codigos_w02.pdf , page17 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[51 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=515, page=18, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 18>
+Package pdftex.def Info: codigos_w02.pdf , page18 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 18>
+Package pdftex.def Info: codigos_w02.pdf , page18 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 18>
+Package pdftex.def Info: codigos_w02.pdf , page18 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[52 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=521, page=19, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 19>
+Package pdftex.def Info: codigos_w02.pdf , page19 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 19>
+Package pdftex.def Info: codigos_w02.pdf , page19 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 19>
+Package pdftex.def Info: codigos_w02.pdf , page19 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[53 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=528, page=20, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 20>
+Package pdftex.def Info: codigos_w02.pdf , page20 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 20>
+Package pdftex.def Info: codigos_w02.pdf , page20 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 20>
+Package pdftex.def Info: codigos_w02.pdf , page20 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[54 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=534, page=21, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 21>
+Package pdftex.def Info: codigos_w02.pdf , page21 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 21>
+Package pdftex.def Info: codigos_w02.pdf , page21 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 21>
+Package pdftex.def Info: codigos_w02.pdf , page21 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[55 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=541, page=22, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 22>
+Package pdftex.def Info: codigos_w02.pdf , page22 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 22>
+Package pdftex.def Info: codigos_w02.pdf , page22 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 22>
+Package pdftex.def Info: codigos_w02.pdf , page22 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[56 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=547, page=23, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 23>
+Package pdftex.def Info: codigos_w02.pdf , page23 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 23>
+Package pdftex.def Info: codigos_w02.pdf , page23 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 23>
+Package pdftex.def Info: codigos_w02.pdf , page23 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[57 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=553, page=24, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 24>
+Package pdftex.def Info: codigos_w02.pdf , page24 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 24>
+Package pdftex.def Info: codigos_w02.pdf , page24 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 24>
+Package pdftex.def Info: codigos_w02.pdf , page24 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[58 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=559, page=25, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 25>
+Package pdftex.def Info: codigos_w02.pdf , page25 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 25>
+Package pdftex.def Info: codigos_w02.pdf , page25 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 25>
+Package pdftex.def Info: codigos_w02.pdf , page25 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[59 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=565, page=26, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 26>
+Package pdftex.def Info: codigos_w02.pdf , page26 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 26>
+Package pdftex.def Info: codigos_w02.pdf , page26 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 26>
+Package pdftex.def Info: codigos_w02.pdf , page26 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[60 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=571, page=27, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 27>
+Package pdftex.def Info: codigos_w02.pdf , page27 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 27>
+Package pdftex.def Info: codigos_w02.pdf , page27 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 27>
+Package pdftex.def Info: codigos_w02.pdf , page27 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[61 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=578, page=28, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 28>
+Package pdftex.def Info: codigos_w02.pdf , page28 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 28>
+Package pdftex.def Info: codigos_w02.pdf , page28 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 28>
+Package pdftex.def Info: codigos_w02.pdf , page28 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[62 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=584, page=29, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 29>
+Package pdftex.def Info: codigos_w02.pdf , page29 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 29>
+Package pdftex.def Info: codigos_w02.pdf , page29 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 29>
+Package pdftex.def Info: codigos_w02.pdf , page29 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[63 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=590, page=30, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 30>
+Package pdftex.def Info: codigos_w02.pdf , page30 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 30>
+Package pdftex.def Info: codigos_w02.pdf , page30 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 30>
+Package pdftex.def Info: codigos_w02.pdf , page30 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[64 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=596, page=31, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 31>
+Package pdftex.def Info: codigos_w02.pdf , page31 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 31>
+Package pdftex.def Info: codigos_w02.pdf , page31 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 31>
+Package pdftex.def Info: codigos_w02.pdf , page31 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[65 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=602, page=32, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 32>
+Package pdftex.def Info: codigos_w02.pdf , page32 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 32>
+Package pdftex.def Info: codigos_w02.pdf , page32 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 32>
+Package pdftex.def Info: codigos_w02.pdf , page32 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[66 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=612, page=33, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 33>
+Package pdftex.def Info: codigos_w02.pdf , page33 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 33>
+Package pdftex.def Info: codigos_w02.pdf , page33 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 33>
+Package pdftex.def Info: codigos_w02.pdf , page33 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[67 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=619, page=34, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 34>
+Package pdftex.def Info: codigos_w02.pdf , page34 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 34>
+Package pdftex.def Info: codigos_w02.pdf , page34 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 34>
+Package pdftex.def Info: codigos_w02.pdf , page34 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[68 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=625, page=35, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 35>
+Package pdftex.def Info: codigos_w02.pdf , page35 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 35>
+Package pdftex.def Info: codigos_w02.pdf , page35 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 35>
+Package pdftex.def Info: codigos_w02.pdf , page35 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[69 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=631, page=36, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 36>
+Package pdftex.def Info: codigos_w02.pdf , page36 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 36>
+Package pdftex.def Info: codigos_w02.pdf , page36 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 36>
+Package pdftex.def Info: codigos_w02.pdf , page36 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[70 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=637, page=37, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 37>
+Package pdftex.def Info: codigos_w02.pdf , page37 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 37>
+Package pdftex.def Info: codigos_w02.pdf , page37 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 37>
+Package pdftex.def Info: codigos_w02.pdf , page37 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[71 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=643, page=38, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 38>
+Package pdftex.def Info: codigos_w02.pdf , page38 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 38>
+Package pdftex.def Info: codigos_w02.pdf , page38 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 38>
+Package pdftex.def Info: codigos_w02.pdf , page38 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[72 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=649, page=39, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 39>
+Package pdftex.def Info: codigos_w02.pdf , page39 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 39>
+Package pdftex.def Info: codigos_w02.pdf , page39 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 39>
+Package pdftex.def Info: codigos_w02.pdf , page39 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[73 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=656, page=40, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 40>
+Package pdftex.def Info: codigos_w02.pdf , page40 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 40>
+Package pdftex.def Info: codigos_w02.pdf , page40 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 40>
+Package pdftex.def Info: codigos_w02.pdf , page40 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[74 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=662, page=41, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 41>
+Package pdftex.def Info: codigos_w02.pdf , page41 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 41>
+Package pdftex.def Info: codigos_w02.pdf , page41 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 41>
+Package pdftex.def Info: codigos_w02.pdf , page41 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[75 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=668, page=42, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 42>
+Package pdftex.def Info: codigos_w02.pdf , page42 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 42>
+Package pdftex.def Info: codigos_w02.pdf , page42 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 42>
+Package pdftex.def Info: codigos_w02.pdf , page42 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[76 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=674, page=43, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 43>
+Package pdftex.def Info: codigos_w02.pdf , page43 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 43>
+Package pdftex.def Info: codigos_w02.pdf , page43 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 43>
+Package pdftex.def Info: codigos_w02.pdf , page43 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[77 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=681, page=44, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 44>
+Package pdftex.def Info: codigos_w02.pdf , page44 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 44>
+Package pdftex.def Info: codigos_w02.pdf , page44 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 44>
+Package pdftex.def Info: codigos_w02.pdf , page44 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[78 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=687, page=45, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 45>
+Package pdftex.def Info: codigos_w02.pdf , page45 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 45>
+Package pdftex.def Info: codigos_w02.pdf , page45 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 45>
+Package pdftex.def Info: codigos_w02.pdf , page45 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[79 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=694, page=46, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 46>
+Package pdftex.def Info: codigos_w02.pdf , page46 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 46>
+Package pdftex.def Info: codigos_w02.pdf , page46 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 46>
+Package pdftex.def Info: codigos_w02.pdf , page46 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[80 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=700, page=47, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 47>
+Package pdftex.def Info: codigos_w02.pdf , page47 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 47>
+Package pdftex.def Info: codigos_w02.pdf , page47 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 47>
+Package pdftex.def Info: codigos_w02.pdf , page47 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[81 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=710, page=48, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 48>
+Package pdftex.def Info: codigos_w02.pdf , page48 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 48>
+Package pdftex.def Info: codigos_w02.pdf , page48 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 48>
+Package pdftex.def Info: codigos_w02.pdf , page48 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[82 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=716, page=49, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 49>
+Package pdftex.def Info: codigos_w02.pdf , page49 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 49>
+Package pdftex.def Info: codigos_w02.pdf , page49 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 49>
+Package pdftex.def Info: codigos_w02.pdf , page49 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[83 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=722, page=50, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 50>
+Package pdftex.def Info: codigos_w02.pdf , page50 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 50>
+Package pdftex.def Info: codigos_w02.pdf , page50 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 50>
+Package pdftex.def Info: codigos_w02.pdf , page50 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[84 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=728, page=51, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 51>
+Package pdftex.def Info: codigos_w02.pdf , page51 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 51>
+Package pdftex.def Info: codigos_w02.pdf , page51 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 51>
+Package pdftex.def Info: codigos_w02.pdf , page51 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[85 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=735, page=52, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 52>
+Package pdftex.def Info: codigos_w02.pdf , page52 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 52>
+Package pdftex.def Info: codigos_w02.pdf , page52 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 52>
+Package pdftex.def Info: codigos_w02.pdf , page52 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[86 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=741, page=53, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 53>
+Package pdftex.def Info: codigos_w02.pdf , page53 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 53>
+Package pdftex.def Info: codigos_w02.pdf , page53 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 53>
+Package pdftex.def Info: codigos_w02.pdf , page53 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[87 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=747, page=54, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 54>
+Package pdftex.def Info: codigos_w02.pdf , page54 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 54>
+Package pdftex.def Info: codigos_w02.pdf , page54 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 54>
+Package pdftex.def Info: codigos_w02.pdf , page54 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[88 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=753, page=55, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 55>
+Package pdftex.def Info: codigos_w02.pdf , page55 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 55>
+Package pdftex.def Info: codigos_w02.pdf , page55 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 55>
+Package pdftex.def Info: codigos_w02.pdf , page55 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[89 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=759, page=56, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 56>
+Package pdftex.def Info: codigos_w02.pdf , page56 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 56>
+Package pdftex.def Info: codigos_w02.pdf , page56 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 56>
+Package pdftex.def Info: codigos_w02.pdf , page56 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[90 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=765, page=57, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 57>
+Package pdftex.def Info: codigos_w02.pdf , page57 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 57>
+Package pdftex.def Info: codigos_w02.pdf , page57 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 57>
+Package pdftex.def Info: codigos_w02.pdf , page57 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[91 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=772, page=58, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 58>
+Package pdftex.def Info: codigos_w02.pdf , page58 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 58>
+Package pdftex.def Info: codigos_w02.pdf , page58 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 58>
+Package pdftex.def Info: codigos_w02.pdf , page58 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[92 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=778, page=59, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 59>
+Package pdftex.def Info: codigos_w02.pdf , page59 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 59>
+Package pdftex.def Info: codigos_w02.pdf , page59 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 59>
+Package pdftex.def Info: codigos_w02.pdf , page59 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[93 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=784, page=60, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 60>
+Package pdftex.def Info: codigos_w02.pdf , page60 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 60>
+Package pdftex.def Info: codigos_w02.pdf , page60 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 60>
+Package pdftex.def Info: codigos_w02.pdf , page60 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[94 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=790, page=61, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 61>
+Package pdftex.def Info: codigos_w02.pdf , page61 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 61>
+Package pdftex.def Info: codigos_w02.pdf , page61 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 61>
+Package pdftex.def Info: codigos_w02.pdf , page61 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[95 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=796, page=62, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 62>
+Package pdftex.def Info: codigos_w02.pdf , page62 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 62>
+Package pdftex.def Info: codigos_w02.pdf , page62 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 62>
+Package pdftex.def Info: codigos_w02.pdf , page62 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[96 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=802, page=63, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 63>
+Package pdftex.def Info: codigos_w02.pdf , page63 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 63>
+Package pdftex.def Info: codigos_w02.pdf , page63 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 63>
+Package pdftex.def Info: codigos_w02.pdf , page63 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[97 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=809, page=64, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 64>
+Package pdftex.def Info: codigos_w02.pdf , page64 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 64>
+Package pdftex.def Info: codigos_w02.pdf , page64 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 64>
+Package pdftex.def Info: codigos_w02.pdf , page64 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[98 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=823, page=65, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 65>
+Package pdftex.def Info: codigos_w02.pdf , page65 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 65>
+Package pdftex.def Info: codigos_w02.pdf , page65 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 65>
+Package pdftex.def Info: codigos_w02.pdf , page65 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[99 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=829, page=66, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 66>
+Package pdftex.def Info: codigos_w02.pdf , page66 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 66>
+Package pdftex.def Info: codigos_w02.pdf , page66 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 66>
+Package pdftex.def Info: codigos_w02.pdf , page66 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[100 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=836, page=67, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 67>
+Package pdftex.def Info: codigos_w02.pdf , page67 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 67>
+Package pdftex.def Info: codigos_w02.pdf , page67 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 67>
+Package pdftex.def Info: codigos_w02.pdf , page67 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[101 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=842, page=68, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 68>
+Package pdftex.def Info: codigos_w02.pdf , page68 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 68>
+Package pdftex.def Info: codigos_w02.pdf , page68 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 68>
+Package pdftex.def Info: codigos_w02.pdf , page68 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[102 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=848, page=69, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 69>
+Package pdftex.def Info: codigos_w02.pdf , page69 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 69>
+Package pdftex.def Info: codigos_w02.pdf , page69 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 69>
+Package pdftex.def Info: codigos_w02.pdf , page69 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[103 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=855, page=70, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 70>
+Package pdftex.def Info: codigos_w02.pdf , page70 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 70>
+Package pdftex.def Info: codigos_w02.pdf , page70 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 70>
+Package pdftex.def Info: codigos_w02.pdf , page70 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[104 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=861, page=71, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 71>
+Package pdftex.def Info: codigos_w02.pdf , page71 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 71>
+Package pdftex.def Info: codigos_w02.pdf , page71 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 71>
+Package pdftex.def Info: codigos_w02.pdf , page71 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[105 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=867, page=72, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 72>
+Package pdftex.def Info: codigos_w02.pdf , page72 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 72>
+Package pdftex.def Info: codigos_w02.pdf , page72 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 72>
+Package pdftex.def Info: codigos_w02.pdf , page72 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[106 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=873, page=73, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 73>
+Package pdftex.def Info: codigos_w02.pdf , page73 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 73>
+Package pdftex.def Info: codigos_w02.pdf , page73 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 73>
+Package pdftex.def Info: codigos_w02.pdf , page73 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[107 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=879, page=74, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 74>
+Package pdftex.def Info: codigos_w02.pdf , page74 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 74>
+Package pdftex.def Info: codigos_w02.pdf , page74 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 74>
+Package pdftex.def Info: codigos_w02.pdf , page74 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[108 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=885, page=75, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 75>
+Package pdftex.def Info: codigos_w02.pdf , page75 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 75>
+Package pdftex.def Info: codigos_w02.pdf , page75 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 75>
+Package pdftex.def Info: codigos_w02.pdf , page75 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[109 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=892, page=76, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 76>
+Package pdftex.def Info: codigos_w02.pdf , page76 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 76>
+Package pdftex.def Info: codigos_w02.pdf , page76 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 76>
+Package pdftex.def Info: codigos_w02.pdf , page76 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[110 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=898, page=77, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 77>
+Package pdftex.def Info: codigos_w02.pdf , page77 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 77>
+Package pdftex.def Info: codigos_w02.pdf , page77 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 77>
+Package pdftex.def Info: codigos_w02.pdf , page77 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[111 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=904, page=78, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 78>
+Package pdftex.def Info: codigos_w02.pdf , page78 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 78>
+Package pdftex.def Info: codigos_w02.pdf , page78 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 78>
+Package pdftex.def Info: codigos_w02.pdf , page78 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[112 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=910, page=79, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 79>
+Package pdftex.def Info: codigos_w02.pdf , page79 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 79>
+Package pdftex.def Info: codigos_w02.pdf , page79 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 79>
+Package pdftex.def Info: codigos_w02.pdf , page79 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[113 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=916, page=80, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 80>
+Package pdftex.def Info: codigos_w02.pdf , page80 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 80>
+Package pdftex.def Info: codigos_w02.pdf , page80 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 80>
+Package pdftex.def Info: codigos_w02.pdf , page80 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[114 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=922, page=81, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 81>
+Package pdftex.def Info: codigos_w02.pdf , page81 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 81>
+Package pdftex.def Info: codigos_w02.pdf , page81 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 81>
+Package pdftex.def Info: codigos_w02.pdf , page81 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[115 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=929, page=82, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 82>
+Package pdftex.def Info: codigos_w02.pdf , page82 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 82>
+Package pdftex.def Info: codigos_w02.pdf , page82 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 82>
+Package pdftex.def Info: codigos_w02.pdf , page82 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[116 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=935, page=83, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 83>
+Package pdftex.def Info: codigos_w02.pdf , page83 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 83>
+Package pdftex.def Info: codigos_w02.pdf , page83 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 83>
+Package pdftex.def Info: codigos_w02.pdf , page83 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[117 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=941, page=84, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 84>
+Package pdftex.def Info: codigos_w02.pdf , page84 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 84>
+Package pdftex.def Info: codigos_w02.pdf , page84 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 84>
+Package pdftex.def Info: codigos_w02.pdf , page84 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[118 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=947, page=85, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 85>
+Package pdftex.def Info: codigos_w02.pdf , page85 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 85>
+Package pdftex.def Info: codigos_w02.pdf , page85 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 85>
+Package pdftex.def Info: codigos_w02.pdf , page85 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[119 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=953, page=86, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 86>
+Package pdftex.def Info: codigos_w02.pdf , page86 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 86>
+Package pdftex.def Info: codigos_w02.pdf , page86 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 86>
+Package pdftex.def Info: codigos_w02.pdf , page86 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[120 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=959, page=87, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 87>
+Package pdftex.def Info: codigos_w02.pdf , page87 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 87>
+Package pdftex.def Info: codigos_w02.pdf , page87 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 87>
+Package pdftex.def Info: codigos_w02.pdf , page87 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[121 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=966, page=88, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 88>
+Package pdftex.def Info: codigos_w02.pdf , page88 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 88>
+Package pdftex.def Info: codigos_w02.pdf , page88 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 88>
+Package pdftex.def Info: codigos_w02.pdf , page88 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[122 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=972, page=89, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 89>
+Package pdftex.def Info: codigos_w02.pdf , page89 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 89>
+Package pdftex.def Info: codigos_w02.pdf , page89 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 89>
+Package pdftex.def Info: codigos_w02.pdf , page89 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[123 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=978, page=90, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 90>
+Package pdftex.def Info: codigos_w02.pdf , page90 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 90>
+Package pdftex.def Info: codigos_w02.pdf , page90 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 90>
+Package pdftex.def Info: codigos_w02.pdf , page90 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[124 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=984, page=91, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 91>
+Package pdftex.def Info: codigos_w02.pdf , page91 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 91>
+Package pdftex.def Info: codigos_w02.pdf , page91 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 91>
+Package pdftex.def Info: codigos_w02.pdf , page91 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[125 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=991, page=92, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 92>
+Package pdftex.def Info: codigos_w02.pdf , page92 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 92>
+Package pdftex.def Info: codigos_w02.pdf , page92 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 92>
+Package pdftex.def Info: codigos_w02.pdf , page92 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[126 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=997, page=93, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 93>
+Package pdftex.def Info: codigos_w02.pdf , page93 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 93>
+Package pdftex.def Info: codigos_w02.pdf , page93 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 93>
+Package pdftex.def Info: codigos_w02.pdf , page93 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[127 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1004, page=94, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 94>
+Package pdftex.def Info: codigos_w02.pdf , page94 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 94>
+Package pdftex.def Info: codigos_w02.pdf , page94 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 94>
+Package pdftex.def Info: codigos_w02.pdf , page94 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[128 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1010, page=95, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 95>
+Package pdftex.def Info: codigos_w02.pdf , page95 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 95>
+Package pdftex.def Info: codigos_w02.pdf , page95 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 95>
+Package pdftex.def Info: codigos_w02.pdf , page95 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[129 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1016, page=96, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 96>
+Package pdftex.def Info: codigos_w02.pdf , page96 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 96>
+Package pdftex.def Info: codigos_w02.pdf , page96 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 96>
+Package pdftex.def Info: codigos_w02.pdf , page96 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[130 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1022, page=97, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 97>
+Package pdftex.def Info: codigos_w02.pdf , page97 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 97>
+Package pdftex.def Info: codigos_w02.pdf , page97 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 97>
+Package pdftex.def Info: codigos_w02.pdf , page97 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[131 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1028, page=98, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 98>
+Package pdftex.def Info: codigos_w02.pdf , page98 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 98>
+Package pdftex.def Info: codigos_w02.pdf , page98 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 98>
+Package pdftex.def Info: codigos_w02.pdf , page98 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[132 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1034, page=99, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 99>
+Package pdftex.def Info: codigos_w02.pdf , page99 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 99>
+Package pdftex.def Info: codigos_w02.pdf , page99 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 99>
+Package pdftex.def Info: codigos_w02.pdf , page99 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[133 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1041, page=100, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 100>
+Package pdftex.def Info: codigos_w02.pdf , page100 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 100>
+Package pdftex.def Info: codigos_w02.pdf , page100 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 100>
+Package pdftex.def Info: codigos_w02.pdf , page100 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[134 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1047, page=101, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 101>
+Package pdftex.def Info: codigos_w02.pdf , page101 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 101>
+Package pdftex.def Info: codigos_w02.pdf , page101 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 101>
+Package pdftex.def Info: codigos_w02.pdf , page101 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[135 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1053, page=102, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 102>
+Package pdftex.def Info: codigos_w02.pdf , page102 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 102>
+Package pdftex.def Info: codigos_w02.pdf , page102 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 102>
+Package pdftex.def Info: codigos_w02.pdf , page102 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[136 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1059, page=103, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 103>
+Package pdftex.def Info: codigos_w02.pdf , page103 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 103>
+Package pdftex.def Info: codigos_w02.pdf , page103 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 103>
+Package pdftex.def Info: codigos_w02.pdf , page103 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[137 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1065, page=104, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 104>
+Package pdftex.def Info: codigos_w02.pdf , page104 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 104>
+Package pdftex.def Info: codigos_w02.pdf , page104 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 104>
+Package pdftex.def Info: codigos_w02.pdf , page104 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[138 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1071, page=105, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 105>
+Package pdftex.def Info: codigos_w02.pdf , page105 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 105>
+Package pdftex.def Info: codigos_w02.pdf , page105 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 105>
+Package pdftex.def Info: codigos_w02.pdf , page105 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[139 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1078, page=106, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 106>
+Package pdftex.def Info: codigos_w02.pdf , page106 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 106>
+Package pdftex.def Info: codigos_w02.pdf , page106 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 106>
+Package pdftex.def Info: codigos_w02.pdf , page106 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[140 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1084, page=107, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 107>
+Package pdftex.def Info: codigos_w02.pdf , page107 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 107>
+Package pdftex.def Info: codigos_w02.pdf , page107 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 107>
+Package pdftex.def Info: codigos_w02.pdf , page107 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[141 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1090, page=108, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 108>
+Package pdftex.def Info: codigos_w02.pdf , page108 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 108>
+Package pdftex.def Info: codigos_w02.pdf , page108 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 108>
+Package pdftex.def Info: codigos_w02.pdf , page108 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[142 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1096, page=109, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 109>
+Package pdftex.def Info: codigos_w02.pdf , page109 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 109>
+Package pdftex.def Info: codigos_w02.pdf , page109 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 109>
+Package pdftex.def Info: codigos_w02.pdf , page109 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[143 <./codigos_w02.pdf>]
+
+pdfTeX warning: pdflatex (file ./codigos_w02.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<codigos_w02.pdf, id=1101, page=110, 614.295pt x 794.97pt>
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 110>
+Package pdftex.def Info: codigos_w02.pdf , page110 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 110>
+Package pdftex.def Info: codigos_w02.pdf , page110 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: codigos_w02.pdf Graphic file (type pdf)
+<use codigos_w02.pdf, page 110>
+Package pdftex.def Info: codigos_w02.pdf , page110 used on input line 959.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+[144 <./codigos_w02.pdf>] 
+AED: lastpage setting LastPage
+(./Manual_2017.aux
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 21599 strings out of 478994
+ 335374 string characters out of 5858184
+ 814456 words of memory out of 5000000
+ 37920 multiletter control sequences out of 15000+600000
+ 531724 words of font info for 390 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 85i,18n,88p,1200b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
+xlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/tex
+live/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/fourier/fourier-mex.pfb></usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/fourier/fourier-mlit.pfb></usr/local/texlive/2021/texm
+f-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2021/texmf-dist/font
+s/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
+/adobe/utopia/putr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/adobe/
+utopia/putri8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-su
+per/sfrm1000.pfb>
+Output written on Manual_2017.pdf (144 pages, 1642210 bytes).
+PDF statistics:
+ 1287 PDF objects out of 1440 (max. 8388607)
+ 990 compressed objects within 10 object streams
+ 263 named destinations out of 1000 (max. 500000)
+ 92998 words of extra memory for PDF output out of 106986 (max. 10000000)
+

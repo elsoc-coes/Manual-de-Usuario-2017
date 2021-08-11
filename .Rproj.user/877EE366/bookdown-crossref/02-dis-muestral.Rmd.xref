@@ -1,0 +1,15 @@
+h1:dis_muest Diseño Muestral del Estudio
+h2:prep_marco Preparación del Marco Muestral
+h2:etapa_1 Etapa 1: Selección de Ciudades
+tab:estratos \\label{tab:estratos}Población por ciudad y tamaños de muestra, por estrato
+h2:etapa_2 Etapa 2: Selección de Bloques (Manzanas)
+tab:ciudades \\label{tab:ciudades}Distribución de los ciudades y bloques por estrato
+h2:etapa_3 Etapa 3: Selección de sub - bloques
+h2:etapa_4 Etapa 4: Selección de viviendas
+tab:bloques \\label{tab:bloques}Distribución de los bloques por estrato
+h2:etapa_5 Etapa 5: Selección de personas
+h2:etapa_6 Etapa 6: Aumento del tamaño muestral
+tab:aumento \\label{tab:aumento}Número de hogares agregados a la muestra según región y comuna
+h2:camb_muest Cambios en el Muestreo en Ola 2017
+h2:diseño-de-ponderadores-de-la-muestra Diseño de Ponderadores de la Muestra
+
